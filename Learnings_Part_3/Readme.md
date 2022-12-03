@@ -49,12 +49,13 @@ Date and Time functions are very important in terms of Business, so DAX function
 
 Functions used here are :
 
-DAY, MONTH, DATEDIFF, WEEKDAY, 
+DAY, MONTH, DATEDIFF, WEEKDAY, IF/ELSE 
 
 ![Screenshot (88)](https://user-images.githubusercontent.com/98825618/205279618-7a440177-eaa8-41cc-98f3-fa332ce10acf.png)
 ![Screenshot (87)](https://user-images.githubusercontent.com/98825618/205279664-58f4b159-15a3-4730-99a2-8ac05edfbf9c.png)
 ![Screenshot (89)](https://user-images.githubusercontent.com/98825618/205280215-e8caa006-1316-4b22-b5d7-71c6aafde73c.png)
 ![Screenshot (90)](https://user-images.githubusercontent.com/98825618/205282220-2e843925-0e1f-4ef9-acd4-83f5eb946da3.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/98825618/205428105-27b3eee7-238a-49c8-9c0f-b62f2933bcc9.png)
 
 So after doing all the necessary addition of the DAX functions as per requirements, we next are going to make some visuals out of the created columns.
 Just like the one I am adding down. We can create many such meaningful visuals as and when required and put it up in the dashboards.
