@@ -41,3 +41,18 @@ Microsoft has added a number of data analytics features to Power BI since its in
 8. Self-service data prep -- Using Power Query, business analysts can ingest, transform, integrate and enrich big data into the Power BI web service. Ingested data can be shared across multiple Power BI models, reports and dashboards.
 
 9. Modeling view -- This allows users to divide complex data models by subject area into separate diagrams, multiselect objects and set common properties, view and modify properties in the properties pane, and set display folders for simpler consumption of complex data models.
+
+# Advantages of PowerBi
+
+1. It helps build an interactable data visualization in data centers
+2. It allows users to transform data into visuals and share them with anyone
+3. It establishes a connection for Excel queries and dashboards for fast analysis
+4. It provides quick and accurate solutions
+5. It enables users to perform queries on reports using simple English words
+
+# Drawbacks/Limitations of PowerBi
+
+1. Power BI does not accept file sizes larger than 1 GB and doesn't mix imported data accessed from real-time connections.
+2. There are very few data sources that allow real-time connections to Power BI reports and dashboards.
+3. It only shares dashboards and reports with users logged in with the same email address.
+4. Dashboard doesn't accept or pass user, account, or other entity parameters.
